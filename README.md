@@ -1,102 +1,218 @@
+<div align="center">
+
 # 👩‍💻 Bianca Martins
 
-### Software Development Student | Web Development
+### `Software Development Student`
 
-🎓 Technology in Systems Analysis and Development at IFAM  
-💻 Interested in Web Development and Software Engineering  
-🌱 Currently learning Java and Object-Oriented Programming  
-🐉 Building my personal finance project, Cofre do Dragão
+🎓 Technology in Systems Analysis and Development @ IFAM
+💻 Web Development • Software Development
+🌱 Currently learning **Java & Object-Oriented Programming**
+🐉 Building **Cofre do Dragão**
+
+<br>
+
+<a href="https://github.com/biankax">
+  <img src="https://img.shields.io/badge/GitHub-biankax-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/biancamartinst">
+  <img src="https://img.shields.io/badge/LinkedIn-Bianca%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bianca.martinst2502@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Technology in Systems Analysis and Development student at IFAM, 
-interested in building software and continuously improving my development skills.
+I'm a **Technology in Systems Analysis and Development student at IFAM**, interested in software development and especially Web Development.
 
-I'm currently focusing on Web Development with React and TypeScript, 
-while expanding my backend and programming fundamentals with Java and 
-Object-Oriented Programming.
+I enjoy learning by building projects and turning ideas into functional applications.
 
-I enjoy turning ideas into projects and learning through practice.
+Currently, I'm focusing on:
+
+* ☕ **Java**
+* 🧩 **Object-Oriented Programming**
+* ⚛️ **React**
+* 🔷 **TypeScript**
+* 🌐 **Web Development**
+
+My goal is to continuously improve my programming fundamentals while building real-world projects.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,html,css" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🐉 Featured Project
 
-### Cofre do Dragão
+<div align="center">
 
-A personal finance management application designed to help users
-organize their income and expenses through a simple and intuitive interface.
+### 🏰 Cofre do Dragão
 
-**Technologies:**
+**A personal finance management application**
+
+</div>
+
+Cofre do Dragão is a personal finance project designed to help users organize their financial life by tracking income, expenses and categories through a simple and intuitive interface.
+
+### 🚧 Status
+
+`In Development`
+
+### ⚙️ Technologies
 
 `React` `TypeScript`
 
-🔗 [View repository](https://github.com/biankax/CofredoDragao)
+### 🎯 Goals
+
+* 📊 Organize personal finances
+* 💰 Track income and expenses
+* 🗂️ Categorize transactions
+* 📈 Visualize financial information
+* 🎨 Create a clean and intuitive user experience
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/biankax/CofredoDragao">
+
+<img src="https://img.shields.io/badge/🐉%20View%20Project-Cofre%20do%20Dragão-8B5CF6?style=for-the-badge"/>
+
+</a>
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- ☕ Java
-- 🧩 Object-Oriented Programming
-- ⚛️ React
-- 🔷 TypeScript
-- 🏗️ Software Development Practices
+```text
+☕ Java
+   └── Object-Oriented Programming
+   └── Classes & Objects
+   └── Encapsulation
+   └── Inheritance
+   └── Polymorphism
+
+⚛️ React
+   └── Components
+   └── TypeScript
+   └── Hooks
+   └── Project structure
+
+🌐 Web Development
+   └── Frontend architecture
+   └── APIs
+   └── Software development practices
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biankax&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biankax&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=biankax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biankax&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📫 Connect with me
+## 📈 GitHub Activity
 
-<p>
-  <a href="https://www.linkedin.com/in/biancamartinst">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bianca.martins2502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biankax&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ Always learning, building and improving.
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/biankax/biankax/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+```text
+🐉 Cofre do Dragão
+   Personal finance management application
+   React + TypeScript
+
+☕ Java Projects
+   Practicing Object-Oriented Programming
+   Java + OOP
+
+🌐 Web Projects
+   Exploring modern frontend development
+   React + TypeScript
+```
+
+---
+
+## 💡 My Development Journey
+
+```text
+Programming Fundamentals
+        ↓
+       C
+        ↓
+     Python
+        ↓
+ JavaScript / Web
+        ↓
+ React + TypeScript
+        ↓
+   Java + OOP
+        ↓
+   🚀 Next Level
+```
+
+I'm still learning, experimenting and building.
+
+Every project is another step.
+
+---
+
+<div align="center">
+
+### 🐉 Keep learning. Keep building. Keep evolving.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=biankax&color=8B5CF6&style=flat-square&label=Profile+Views" />
+
+</div>
