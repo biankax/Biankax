@@ -2,64 +2,57 @@
 
 # 👩‍💻 Bianca Martins
 
-### `Software Development Student`
+### Software Development Student
 
 🎓 Technology in Systems Analysis and Development @ IFAM
-💻 Web Development • Software Development
-🌱 Currently learning **Java & Object-Oriented Programming**
-🐉 Building **Cofre do Dragão**
+💻 Full Stack Development
+🐉 Building applications and learning through practice
 
 <br>
 
 <a href="https://github.com/biankax">
-  <img src="https://img.shields.io/badge/GitHub-biankax-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-biankax-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/biancamartinst">
-  <img src="https://img.shields.io/badge/LinkedIn-Bianca%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Bianca%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:bianca.martinst2502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:bianca.martins2502@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Technology in Systems Analysis and Development student at IFAM**, interested in software development and especially Web Development.
+I'm a **Technology in Systems Analysis and Development student at IFAM**, passionate about software development and interested in building applications that solve real problems.
 
-I enjoy learning by building projects and turning ideas into functional applications.
-
-Currently, I'm focusing on:
-
-* ☕ **Java**
-* 🧩 **Object-Oriented Programming**
-* ⚛️ **React**
-* 🔷 **TypeScript**
-* 🌐 **Web Development**
-
-My goal is to continuously improve my programming fundamentals while building real-world projects.
+My current focus is **Full Stack Development**, working with modern web technologies and continuously expanding my technical skills through personal and academic projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
 </p>
 
-### 🌐 Web Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### 🔧 Tools
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
+</p>
+
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -69,150 +62,61 @@ My goal is to continuously improve my programming fundamentals while building re
 
 ## 🐉 Featured Project
 
-<div align="center">
+### Cofre do Dragão
 
-### 🏰 Cofre do Dragão
+**Full Stack personal finance management application.**
 
-**A personal finance management application**
+A web application focused on personal financial organization, allowing users to manage their income and expenses through an intuitive interface.
 
-</div>
-
-Cofre do Dragão is a personal finance project designed to help users organize their financial life by tracking income, expenses and categories through a simple and intuitive interface.
-
-### 🚧 Status
-
-`In Development`
-
-### ⚙️ Technologies
+**Frontend**
 
 `React` `TypeScript`
 
-### 🎯 Goals
+**Backend**
 
-* 📊 Organize personal finances
-* 💰 Track income and expenses
-* 🗂️ Categorize transactions
-* 📈 Visualize financial information
-* 🎨 Create a clean and intuitive user experience
+`NestJS` `Node.js`
 
-<br>
+**Status**
 
-<div align="center">
+`🚧 In Development`
 
 <a href="https://github.com/biankax/CofredoDragao">
-
-<img src="https://img.shields.io/badge/🐉%20View%20Project-Cofre%20do%20Dragão-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+---
+
+## 📚 Currently Learning
+
+* ☕ Java
+* 🌐 Full Stack Development
+* 🏗️ Software Architecture
+* 🔗 APIs and Backend Development
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-☕ Java
-   └── Object-Oriented Programming
-   └── Classes & Objects
-   └── Encapsulation
-   └── Inheritance
-   └── Polymorphism
-
-⚛️ React
-   └── Components
-   └── TypeScript
-   └── Hooks
-   └── Project structure
-
-🌐 Web Development
-   └── Frontend architecture
-   └── APIs
-   └── Software development practices
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=biankax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biankax&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=biankax&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 🐉 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=biankax&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biankax&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/biankax/biankax/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🚀 What I'm Building
-
-```text
-🐉 Cofre do Dragão
-   Personal finance management application
-   React + TypeScript
-
-☕ Java Projects
-   Practicing Object-Oriented Programming
-   Java + OOP
-
-🌐 Web Projects
-   Exploring modern frontend development
-   React + TypeScript
-```
-
----
-
-## 💡 My Development Journey
-
-```text
-Programming Fundamentals
-        ↓
-       C
-        ↓
-     Python
-        ↓
- JavaScript / Web
-        ↓
- React + TypeScript
-        ↓
-   Java + OOP
-        ↓
-   🚀 Next Level
-```
-
-I'm still learning, experimenting and building.
-
-Every project is another step.
-
----
-
-<div align="center">
-
-### 🐉 Keep learning. Keep building. Keep evolving.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=biankax&color=8B5CF6&style=flat-square&label=Profile+Views" />
+### Building, learning and evolving. 🚀
 
 </div>
