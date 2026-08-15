@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Bianca Martins
+# 💻 Bianca Martins
 
 ### Software Development Student
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 💻 About Me
 
 I'm a **Technology in Systems Analysis and Development student at IFAM**, passionate about software development and interested in building applications that solve real problems.
 
@@ -92,16 +92,6 @@ A web application focused on personal financial organization, allowing users to 
 * 🌐 Full Stack Development
 * 🏗️ Software Architecture
 * 🔗 APIs and Backend Development
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=biankax&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
